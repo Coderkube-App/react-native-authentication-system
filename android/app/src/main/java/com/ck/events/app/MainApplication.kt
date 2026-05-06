@@ -1,4 +1,4 @@
-package com.reactnativeauthenticationsystem
+package com.ck.events.app
 
 import android.app.Application
 import com.facebook.react.PackageList
